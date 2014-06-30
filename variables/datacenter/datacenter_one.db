@@ -1,0 +1,4 @@
+[global]
+datacenter_one_global_setting_1=datacenter_one_global_value_1
+datacenter_one_global_setting_2=datacenter_one_global_value_2
+global_setting_1=datacenter_one_global_value_3

@@ -1,0 +1,4 @@
+[global]
+service_tier_two_setting_1=service_tier_two_value_1
+service_tier_two_setting_2=service_tier_two_value_2
+service_tier_two_setting_3=%(service_tier_two_setting_2)s

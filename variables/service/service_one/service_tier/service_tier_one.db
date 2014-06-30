@@ -1,0 +1,4 @@
+[global]
+service_one_tier_one_setting_1=service_one_tier_one_value_1
+service_one_tier_one_setting_2=service_one_tier_one_value_2
+service_one_tier_one_setting_3=|( dns_resolve www.google.com )

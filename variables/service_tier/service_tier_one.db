@@ -1,0 +1,4 @@
+[global]
+service_tier_one_setting_1=service_tier_one_value_1
+service_tier_one_setting_2=service_tier_one_value_2
+service_tier_one_setting_3=service_tier_one_value_3

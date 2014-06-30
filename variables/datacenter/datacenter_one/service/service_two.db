@@ -1,0 +1,5 @@
+[global]
+datacenter_one_service_two_setting_1=10
+datacenter_one_service_two_setting_2=40
+datacenter_one_service_two_setting_3=|( add %(datacenter_one_service_two_setting_1)s %(datacenter_one_service_two_setting_2)s )
+datacenter_one_service_two_setting_4=|( add %(datacenter_one_service_two_setting_1)s %(datacenter_one_service_two_setting_none)s )
